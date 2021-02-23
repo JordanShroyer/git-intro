@@ -12,3 +12,6 @@ def multiply(a, b):
 
 def divide(a, b):
     pass
+
+def square(a):
+    return multiply(a, a)
